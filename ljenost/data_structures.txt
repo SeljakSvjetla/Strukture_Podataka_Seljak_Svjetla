@@ -1,0 +1,17 @@
+data structures are the fundamental building blocks of computer programming
+they define how data is organized stored and manipulated within a program understanding data structures is very important for developing efficient and effective algorithms
+in this tutorial we will explore the most commonly used data structures including arrays linked lists stacks queues trees and graphs
+a data structure is a storage that is used to store and organize dana
+it is a way of arranging data on a computer so that it can be accessed and updated efficiently
+a data structure is not only used for organizing the data it is also used for processing retrieving and storing data there are different basic and advanced types of data structures that are used in almost every program or software system that has been developed
+so we must have good knowledge about data structures 
+linear data structure is a data structure in which data elements are arranged sequentially or linearly where each element is attached to its previous and next adjacent elements is called a linear data structure 
+example array stack queue linked list etc
+static data structure static data structure has a fixed memory size it is easier to access the elements in a static data structure 
+example array
+dynamic data structure in dynamic data structure the size is not fixed 
+it can be randomly updated during the runtime which may be considered efficient concerning the memory or space complexity of the code 
+example queue stack etc
+non-linear data structure data structures where data elements are not placed sequentially or linearly are called non-linear data structures
+in a non-linear data structure we can not traverse all the elements in a single run only 
+examples trees and graphs
