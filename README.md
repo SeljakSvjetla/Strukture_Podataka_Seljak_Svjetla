@@ -8,9 +8,9 @@ git fetch 'repo'
 git pull 'repo'  
 //git reflog  
 git remote add origin 'repo'  
-//git branch -M main
-//git push -u origin main
-//git pull --rebase origin main  
+//git branch -M main  
+//git push -u origin main  
+//git pull --rebase origin main    
 //git push origin main  
 
 /*
